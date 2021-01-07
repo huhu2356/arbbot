@@ -11,6 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ethersproject/contracts": "^5.0.8",
+    "@ethersproject/providers": "^5.0.17",
+    "@ethersproject/solidity": "^5.0.7",
+    "@uniswap/sdk": "^3.0.3",
+    "bignumber.js": "^9.0.1",
+    "got": "^10.7.0",
     "web3": "^1.3.1"
   }
 }

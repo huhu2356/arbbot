@@ -1,4 +1,4 @@
-const inchABI = require('../config/abi/inch.json');
+const inchABI = require('../../config/abi/inch.json');
 
 class Inch {
     constructor({ web3, address }) {
